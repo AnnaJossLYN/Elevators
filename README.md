@@ -8,6 +8,7 @@ First you must put a poster
 with the following characteristics
 
 **Line1 => "[elevator]"**
+
 **Line2 => up or down**
 
 **"up" It will make me raise you up to the position 
